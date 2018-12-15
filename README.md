@@ -6,8 +6,8 @@ Go 语言学习资料与社区索引
 
 **最后更新时间**：2018 年 03 月 02 日
 ## 第三方库
- - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter):代码检查
- - [cep21/circuit](https://github.com/cep21/circuit):熔断降级
+ - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter):代码检查(来源https://zhuanlan.zhihu.com/p/48039838)
+ - [cep21/circuit](https://github.com/cep21/circuit):熔断降级(来源https://zhuanlan.zhihu.com/p/48039838)
 ## 交流社区
 
 ### 中文社区
