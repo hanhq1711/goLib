@@ -8,6 +8,7 @@ Go 语言学习资料与社区索引
 ## 第三方库
  - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter):代码检查(来源https://zhuanlan.zhihu.com/p/48039838)
  - [cep21/circuit](https://github.com/cep21/circuit):熔断降级(来源https://zhuanlan.zhihu.com/p/48039838)
+ - [gotop](https://github.com/cjbassi/gotop):Linux top命令替代方案(来源https://mp.weixin.qq.com/s/4PYur2W977QvNYP9qlOvJg)
 ## 交流社区
 
 ### 中文社区
